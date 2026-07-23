@@ -6,3 +6,5 @@ aleena  TicTacToe  1
 hania  TicTacToe  1
 sheza  Pong  1
 emaan  BrickBreaker  170
+amna  Pong  1
+aleena  BrickBreaker  70
