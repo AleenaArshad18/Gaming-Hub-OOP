@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{6c8ca6d0-585e-4ff3-876f-5bba20654e56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{69dc5387-ba1d-4750-8ffc-ae129bb6025c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets">
+      <UniqueIdentifier>{5db11543-cd82-4561-ab71-83b432309adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\images">
+      <UniqueIdentifier>{0cfd0efb-5fbe-41a3-a0b6-ee4598bf7979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\font">
+      <UniqueIdentifier>{cefbea73-4024-4aa0-abd5-f698405a9e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\audio">
+      <UniqueIdentifier>{9711a6a7-c3bf-4cdf-951a-15a6af7c1bde}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\brick-breaker.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\BrickNameScreen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\Hub.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\leaderboard.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\pong.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\PongNameScreen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TicTacToe.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TicTacToeNameScreen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\brick-breaker.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\BrickNameScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\hub.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\leaderboard.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\pong.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\PongNameScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\TicTacToe.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\TicTacToeNameScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\images\ball-sprite-pingpong-removebg-preview.png">
+      <Filter>assets\images</Filter>
+    </Image>
+    <Image Include="assets\images\blue-ball-brickbreaker2-removebg-preview.png">
+      <Filter>assets\images</Filter>
+    </Image>
+    <Image Include="assets\images\hub-background3.0.jpg">
+      <Filter>assets\images</Filter>
+    </Image>
+    <Image Include="assets\images\new-game-background-1.jpg">
+      <Filter>assets\images</Filter>
+    </Image>
+    <Image Include="assets\images\dark_blue_heart_pixel_art-removebg-preview.png">
+      <Filter>assets\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\font\PixelPurl.ttf">
+      <Filter>assets\font</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="assets\audio\626259__rolly-sfx__youve-succeeded-game-jingle.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\dragon-studio-button-press-382713.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\floraphonic-classic-game-action-negative-8-224414.mp3">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\floraphonic-classic-game-action-negative-8-224414.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\mixkit-completion-of-a-level-2063.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\mixkit-game-ball-tap-2073.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\mixkit-player-jumping-in-a-video-game-2043.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\mixkit-retro-arcade-casino-notification-211.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\tatamusic-game-gaming-video-game-music-482380.wav">
+      <Filter>assets\audio</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="leaderboard.txt" />
+  </ItemGroup>
+</Project>
